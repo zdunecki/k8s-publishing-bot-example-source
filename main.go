@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/zdunecki/k8s-publishing-bot-example-source/pkg/client"
+	client "github.com/zdunecki/k8s-publishing-bot-example-source-client"
 )
 
 func main() {
